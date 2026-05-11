@@ -1,0 +1,17 @@
+Zásady ochrany osobních údajů — Šichta
+Vítejte. Toto je politika ochrany osobních údajů aplikace Šichta. Bude krátká, protože není co skrývat.
+Co sbíráme?
+Nic. Absolutně nic. Šichta nepotřebuje váš email, telefonní číslo, polohu ani přístup k fotoaparátu. Všechna data — jméno, pracovní záznamy, podpis — zůstávají výhradně ve vašem telefonu. My je nevidíme, nechceme vidět a upřímně řečeno ani nevíme, kdo jste.
+Sdílíme vaše data?
+S kým? Nemáme co sdílet. Žádný server, žádná databáze, žádný cloud. Vaše data jsou vaše.
+Analytika a reklama?
+Ne. Žádné sledovací SDK, žádné analytické nástroje, žádná reklama. Aplikace prostě funguje.
+Oprávnění aplikace
+Šichta žádá pouze o tato oprávnění:
+Oznámení — pro připomínky vyplnění výkazu
+Úložiště — pro uložení PDF a Excel souborů do vašeho zařízení
+Přesné alarmy — pro včasné připomínky
+Děti
+Aplikace není určena dětem do 13 let. Šichta je nástroj pro lidi, kteří pracují — ať už na stavbě, v kavárně, na brigádě nebo kdekoliv jinde, kde se počítají odpracované hodiny.
+Kontakt
+Máte otázky? Napište na: kelev96@seznam.cz

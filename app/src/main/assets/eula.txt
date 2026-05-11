@@ -1,0 +1,23 @@
+Licenční smlouva s koncovým uživatelem — Šichta
+Vítejte. Než začnete používat Šichta, přečtěte si toto. Je to krátké a bez zbytečného právního blábolení.
+Co je Šichta?
+Šichta je aplikace pro evidenci odpracovaných hodin. Funguje lokálně na vašem zařízení. Žádný server, žádný cloud, žádné překvapení.
+Co smíte dělat?
+Používat aplikaci pro osobní i pracovní účely
+Exportovat a sdílet své vlastní záznamy
+Nainstalovat aplikaci na svá zařízení
+Co nesmíte dělat?
+Kopírovat, upravovat nebo prodávat aplikaci nebo její části
+Rozebírat kód aplikace (reverse engineering)
+Vydávat aplikaci za svou vlastní tvorbu
+Používat aplikaci k nezákonným účelům — to by bylo hloupé
+Odpovědnost
+Šichta je nástroj. Pokud zapomenete vyplnit výkaz, to není naše chyba. Pokud zadáte špatné hodiny, to také není naše chyba. Za obsah který zadáváte odpovídáte vy.
+Aktualizace
+Aplikace se může aktualizovat. Aktualizace jsou zpravidla k lepšímu — aspoň se o to snažíme.
+Ukončení
+Přestanete-li aplikaci používat, prostě ji smažte. Žádné drama, žádné slzy.
+Rozhodné právo
+Tato smlouva se řídí právem České republiky.
+Kontakt
+Něco vám není jasné? Napište na: kelev96@seznam.cz
