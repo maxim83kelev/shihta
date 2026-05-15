@@ -28,4 +28,4 @@
 *Coming soon on Google Play*
 
 ## License
-© 2026 Maxim Shpynov. All rights reserved.
+© 2026 Maxim "Kelev". All rights reserved.
