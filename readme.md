@@ -22,7 +22,22 @@
 - BiometricPrompt for security
 
 ## Screenshots
-*Coming soon*
+
+![Main Screen](screenshots/photo_1.jpg)
+
+![Export Options](screenshots/photo_2.jpg)
+
+![Settings](screenshots/photo_3.jpg)
+
+![Settings](screenshots/photo_4.jpg)
+
+![Hours & Earnings Toggle](screenshots/photo_5.jpg)
+
+![Signature](screenshots/photo_6.jpg)
+
+![Daily Reminder](screenshots/photo_7.jpg)
+
+![Send Reminder](screenshots/photo_8.jpg)
 
 ## Download
 *Coming soon on Google Play*
